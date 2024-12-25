@@ -1,6 +1,3 @@
-//adicionar a pessoa guardar nome adicionado em lista
-// criar uma forma aleatoria de sortear as pessoas sem a possibilidade de repetir e se auto sortear 
-//reinicar o sorteio
 let amigos = []
 
 
